@@ -20,9 +20,6 @@ I'm Ravi Singh Patel, a passionate developer from Ahmedabad, Gujarat.
 ## Today's Total Commits
 ![Total Commits](https://profile-counter.glitch.me/ravi-patel57144/count.svg)
 
-## Commits in the Last Year
-![Commits in the Last Year](https://img.shields.io/github/commit-activity/y/ravi-patel57144/ravi-patel57144?label=commits%20in%20last%20year)
-
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/ravi-patel57144/))
 
