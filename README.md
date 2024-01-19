@@ -14,22 +14,14 @@ I'm Ravi Singh Patel, a passionate developer from Ahmedabad, Gujarat.
 ## Daily Streak
 ![Ravi Patel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravi-patel57144)
 
-## Random Dynamic Quotes
-> "Code is like humor. When you have to explain it, it’s bad."
-> 
-> "In coding, there's no such thing as a stupid question, only overlooked documentation."
-> 
-> "The best code is no code at all, but since we don’t live in a perfect world, make it as readable as poetry."
-> 
-> "Coding is not just about commands and syntax; it's a way of thinking and problem-solving."
-> 
-> "The greatest pleasure in coding comes from solving a problem and writing elegant, efficient code to do it."
-
 ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ravi-patel57144)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Total Commits
+## Today's Total Commits
 ![Total Commits](https://profile-counter.glitch.me/ravi-patel57144/count.svg)
+
+## Commits in the Last Year
+![Commits in the Last Year](https://img.shields.io/github/commit-activity/y/ravi-patel57144/ravi-patel57144?label=commits%20in%20last%20year)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/ravi-patel57144/))
