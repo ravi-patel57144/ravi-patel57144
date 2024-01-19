@@ -6,13 +6,12 @@ I'm Ravi Singh Patel, a passionate developer from Ahmedabad, Gujarat.
 
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)
+![Ravi Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravi-patel57144&show_icons=true&count_private=true)
 
 ## Daily Streak
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
-
+![Ravi Patel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravi-patel57144)
 
 
 ## Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/ravi-patel57144/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/ravi-patel57144/))
 
