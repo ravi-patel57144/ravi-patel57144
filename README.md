@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Ravi Singh Patel, a passionate developer from Ahmedabad, Gujarat.
+I'm Ravi Singh Patel, a passionate developer from Bangalore, Karnataka.
 
 - 🌱 I’m currently learning Python DJango.
 - ⚡ Fun fact: I enjoy debugging code more than writing it, finding that elusive bug feels like solving a puzzle!
